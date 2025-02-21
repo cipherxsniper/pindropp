@@ -75,8 +75,8 @@ We welcome contributions! If you have feature suggestions or find issues, feel f
 ## **📬 Contact & Support**
 
 Maintainer: **Thomas Lee Harvey**  
-📩 Contact: [Your Email or GitHub Profile]  
-🌐 Repository: [GitHub Link]  
+📩 Contact: simpl3hoods@gmail.com  
+Follow me on X: https://x.com/simpl3hoodies 
 
 
 🚀 **Pindropp – Ethical Network Analysis & Security Testing** 🔍
